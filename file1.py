@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("hello from master branch");
-=======
-print("hello from conflict branch");
->>>>>>> conflict_branch
+print ("i edited this file in git hub");
